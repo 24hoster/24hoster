@@ -1,5 +1,5 @@
 <p align="Middle"> 
-    <a href="" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/893908757946445905.png"/> </a> 
+    <a href="" target="_blank"> <img src="https://discord.c99.nl/widget/theme-5/705784631248683119.png"/> </a> 
     <a style="padding-right:8px;" href="" target="_blank"> <img src="https://i.imgur.com/P3GvYgB.png"5px"/></a>
 
 <h1 align="center">Hi <img 
