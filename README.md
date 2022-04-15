@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img 
 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I go by destruction - 24H</h1>
 <h2 align="center">I generally like machine learning and the feeling of being challenged.
-I mostly focus on website security testings I have finished 2 years of courses for different categories, such as C# Reverse engineering, hijacking websites, SQL injections for unsecured Data (Web designing HTML/CSS, PHP, Python script(s) mostly self taught while quarantined, i also like to touch grass sometimes :)</h2>
+I mostly focus on website security testings I have finished 2 years of courses for different categories, such as C# Reverse engineering, hijacking websites, SQL injections for unsecured Data (Web designing HTML/CSS, PHP, Python script(s) mostly self taught while quarantined, You won't see me post much here, I am full time working, if life spares me some time i will probably throw some useful repos, thanks for being here and I also like to touch grass sometimes :)</h2>
 
 
 
